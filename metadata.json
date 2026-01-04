@@ -1,0 +1,8 @@
+{
+  "name": "Copy of PrepMaster Pro",
+  "description": "An integrated assessment environment combining a LeetCode-style coding IDE with an IndiaBIX-style MCQ interface for comprehensive interview preparation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
